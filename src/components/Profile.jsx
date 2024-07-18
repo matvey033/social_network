@@ -1,8 +1,9 @@
 import React from 'react';
+import s from './styles/Profile.module.css';
 
 const Profile = () => {
     return (
-        <div className='content'>
+        <div className={s.content}>
         <div>
           <img src='https://s1.1zoom.me/big3/446/375561-svetik.jpg' />
         </div>

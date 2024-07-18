@@ -7,26 +7,3 @@
     grid-template-rows: 60px 1fr;
     grid-template-columns: 2fr 10fr;
 }
-
-.header {
-    grid-area: h;
-    background-color: green;
-}
-
-.header img {
-    width: 100px;
-}
-
-.nav {
-    grid-area: n;
-    background-color: orange;
-}
-
-.content {
-    grid-area: c;
-    background-color: #3E97D1;
-}
-
-.content img {
-    width: 400px;
-}
